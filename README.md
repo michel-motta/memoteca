@@ -1,27 +1,33 @@
-# Memoteca
+<h1 align="center">Memoteca</h1>
+<p align="center">Projeto desenvolvido durante o curso da Alura para me atualizar sobre as novas features do Angular 14.</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
+### Índice
 
-## Development server
+- [Sobre](#sobre)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
-## Code scaffolding
+- [Resultado](#resultado)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- [Como Usar](#como-usar)
 
-## Build
+## Sobre
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+A <strong>Memoteca</strong> é um mural de pensamentos. Nele você poderá colocar citações de livros, trechos de música, e aquelas frases legais que você quer deixar de reserva para postar como legenda em suas selfies. 
+Na tela principal da aplicação, temos o título "Meu Mural" escrito em azul, centralizado na tela, e um botão azul logo abaixo com o texto "Adicionar Pensamento". Ao clicar nesse botão, somos direcionados para a tela de cadastro, onde é possível adicionar um novo pensamento. Nessa tela há o título "Adicione um pensamento novo:" em azul, centralizado na tela, e logo abaixo existe um formulário com três campos a serem preenchidos:
+- O primeiro campo tem o título "Pensamento". Nele vamos escrever o pensamento a ser salvo.
+- O segundo campo tem o título "Autoria ou fonte". Nele vamos escrever o nome do autor ou a fonte do pensamento que será salvo.
+- O terceiro campo é capaz de mudar o visual das aspas e do cartão de pensamento a ser salvo.
 
-## Running unit tests
+## Tecnologias Utilizadas
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+O projeto foi desenvolvido utilizando a seguinte tecnologia:
 
-## Running end-to-end tests
+- [Angular](https://angular.io/)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Resultado
+![Vídeo](https://user-images.githubusercontent.com/93559543/196321239-c1b4175c-3837-4ab4-8058-1fd765fa3f9a.mp4)
 
-## Further help
+---
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Feito com ❤️ por Michel Motta 👋🏽 Entre em contato!
